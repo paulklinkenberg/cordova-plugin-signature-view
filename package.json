@@ -1,0 +1,42 @@
+{
+  "name": "cordova-plugin-signature-view",
+  "version": "0.1",
+  "description": "Native view plugin to request and capture the user's written signature.\nCurrently contains a native Android implementation and a pure JS fallback implementation for other devices (including desktop browsers).",
+  "cordova": {
+    "id": "cordova-plugin-signature-view",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "scripts": {
+    "test": "echo \"Warn: no test specified for cordova-plugin-signature-view\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuntjeKetting/cordova-plugin-signature-view.git"
+  },
+  "keywords": [
+    "cordova",
+    "signature",
+    "autograph",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser"
+  ],
+  "author": "Code Yellow B.V.",
+  "license": "Apache 2.0 License",
+  "bugs": {
+    "url": "https://github.com/netinhoteixeira/cordova-plugin-signature-view/issues"
+  },
+  "homepage": "https://github.com/netinhoteixeira/cordova-plugin-signature-view"
+}
