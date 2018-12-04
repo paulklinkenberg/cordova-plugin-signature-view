@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-signature-view",
   "version": "0.1",
-  "description": "Native view plugin to request and capture the user's written signature.\nCurrently contains a native Android implementation and a pure JS fallback implementation for other devices (including desktop browsers).",
+  "description": "Native view plugin to request and capture the user s written signature.\nCurrently contains a native Android implementation and a pure JS fallback implementation for other devices (including desktop browsers).",
   "cordova": {
     "id": "cordova-plugin-signature-view",
     "platforms": [
